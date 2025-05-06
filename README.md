@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamed0" alt="lamed0" /></a> </p>
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **C++ language**
 
 - 📫 How to reach me **lamranimed03@gmail.com**
 
