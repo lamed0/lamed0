@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Med abdellah Nciri</h1>
+<h1 align="center">Hi 👋, I'm Mohamed LAMRANI</h1>
 <h3 align="center">Interested and passionate about IT. I invest in everything I do, because i like to learn.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamed0" alt="lamed0" /></a> </p>
