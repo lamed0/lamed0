@@ -1,14 +1,21 @@
-# Hi there, I'm Mohamed 👋
+# Hi, I'm Mohamed Lamrani 👋
 
-### 🚀 Software Engineering Student @ 1337 (42 Network)
-I specialize in building robust backend architectures and low-level system applications.
+### 🚀 Software Engineering Student at 1337 (42 Network)
+I'm a Backend Developer passionate about system programming and scalable architectures.
 
-- 🔭 I’m currently working on **Ft_transcendence**
-- ⚡ Tech Stack: **Node.js, NestJS, C/C++, PostgreSQL, Docker**
-- 🛠️ Deep interest in: System Programming, Microservices, and Network Infrastructure.
+- 🔭 I’m currently finishing **ft_transcendence** (NestJS / React / Microservices).
+- ⚙️ I love working with: **C++, C, NestJS, PostgreSQL, and Docker**.
+- 🛠️ I built my own **HTTP Server** from scratch in C++.
 
-### 📊 My Stats
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamed0&show_icons=true&theme=transparent)
+### 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/mohamed-lamrani-3217a41ba/) | [Email](mailto:lamranimed03@gmail.com)
+### 📈 GitHub Stats
+![Mohamed's stats](https://github-readme-stats.vercel.app/api?username=lamed0&show_icons=true&theme=tokyonight)
+
+### 📫 How to reach me:
+- **LinkedIn:** [mohamed-lamrani](https://www.linkedin.com/in/mohamed-lamrani-3217a41ba/)
+- **Email:** lamranimed03@gmail.com
