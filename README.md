@@ -3,7 +3,7 @@
 ### 🚀 Software Engineering Student at 1337 (42 Network)
 I'm a Backend Developer passionate about system programming and scalable architectures.
 
-- 🔭 I’m currently finishing **ft_transcendence** (NestJS / React / Microservices).
+- 🔭 I’m currently finishing **ft_transcendence** (NestJS / PostgreSQL / Microservices).
 - ⚙️ I love working with: **C++, C, NestJS, PostgreSQL, and Docker**.
 - 🛠️ I built my own **HTTP Server** from scratch in C++.
 
