@@ -14,7 +14,7 @@ I'm a Backend Developer passionate about system programming and scalable archite
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📈 GitHub Stats
-![Mohamed's stats](https://github-readme-stats.vercel.app/api?username=lamed0&show_icons=true&theme=tokyonight)
+![Streak de Mohamed](https://github-readme-streak-stats.herokuapp.com/?user=lamed0&theme=radical)
 
 ### 📫 How to reach me:
 - **LinkedIn:** [mohamed-lamrani](https://www.linkedin.com/in/mohamed-lamrani-3217a41ba/)
