@@ -6,8 +6,7 @@ I'm a Backend Developer passionate about system programming and scalable archite
 - 🔭 I’m currently finishing **ft_transcendence** (NestJS / PostgreSQL / Microservices).
 - ⚙️ I love working with: **C++, C, NestJS, PostgreSQL, and Docker**.
 - 🛠️ I built my own **HTTP Server** from scratch in C++.
-
-### 🛠 Tech Stack
+- 
 ### 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
