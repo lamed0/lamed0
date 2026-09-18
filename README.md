@@ -40,7 +40,7 @@ Passionate about building scalable web applications, robust distributed systems,
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lamed0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamed0&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
