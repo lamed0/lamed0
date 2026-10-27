@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Lamrani 👋
 
-🚀 **Software Engineering Student at 1337 (42 Network) | Full-Stack & Systems Developer**
+🚀 **Software Engineering Student at 1337 (42 Network) | Full-Stack & AI Developer**
 
 Passionate about building scalable web applications, robust distributed systems, and resilient automation pipelines. Experienced in bridging rigorous low-level engineering (C/C++) with modern full-stack frameworks (React, Express, NestJS).
 
