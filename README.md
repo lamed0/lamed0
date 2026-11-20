@@ -10,7 +10,6 @@ I enjoy understanding how systems work from the bottom up — from building a C+
 ## 💡 Ideas I want to explore
 
 - **Cloud infrastructure and multi-cloud tooling** — how cloud providers expose infrastructure, pricing and operational data through APIs.
-- **Kubernetes and container orchestration** — clusters, networking and deployment workflows.
 - **Infrastructure automation** — Infrastructure as Code and observability tools.
 
 ## 🧰 Tech stack
