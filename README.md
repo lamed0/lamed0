@@ -86,16 +86,6 @@ Hardened Debian server (LVM, SSH, UFW, sudo policy) with a Bash monitoring scrip
 
 **Technologies:** Debian · LVM · SSH · UFW · Bash · TCP/IP
 
-### [Cursus_Projects_1337](https://github.com/lamed0/Cursus_Projects_1337)
-Projects completed as part of the 1337 core curriculum.
-
-**Technologies:** C
-
-### [Better-Auth-App](https://github.com/lamed0/Better-Auth-App)
-Application exploring authentication flows.
-
-**Technologies:** TypeScript
-
 ## 📚 Currently exploring
 
 - Cloud provider APIs, SDKs and infrastructure metadata
