@@ -1,51 +1,67 @@
-# Hi, I'm Mohamed Lamrani 👋
-
-🚀 **Software Engineering Student at 1337 (42 Network) | Full-Stack & AI Developer**
-
-Passionate about building scalable web applications, robust distributed systems, and resilient automation pipelines. Experienced in bridging rigorous low-level engineering (C/C++) with modern full-stack frameworks (React, Express, NestJS).
-
+Hi, I'm Mohamed Lamrani 👋
+Software Engineering student at 1337 (42 Network), interested in
+cloud infrastructure, DevOps, Kubernetes and distributed systems.
+I enjoy understanding how systems work from the bottom up --- from
+building a C++ HTTP server to developing containerised applications. I'm
+now extending that foundation into cloud-native infrastructure,
+automation and multi-cloud environments.
+What I'm working on
+🔭 Cloud infrastructure and multi-cloud tooling --- exploring
+how cloud providers expose infrastructure, pricing and operational
+data through APIs.
+🔭 Kubernetes and container orchestration --- building practical
+experience with clusters, networking and deployment workflows.
+🔭 Infrastructure automation --- learning Infrastructure as Code
+and observability tools.
+> Add links here as these projects become public and have a working
+> implementation.
+Selected projects
 ---
-
-### 💼 What I've Been Working On
-- 🛠️ **Full-Stack & Automation:** Architected an e-commerce Micro-SaaS at **MIM Digital Agency** using React, Express, Supabase, and n8n (AI-driven catalog sync & REST APIs).
-- 🎮 **Distributed Applications:** Developed **ft_transcendence** (NestJS, PostgreSQL, WebSockets, Docker, Microservices).
-- ⚡ **Systems & Networking:** Built a fully compliant **HTTP/1.1 Server** from scratch in C++98 handling multiplexed I/O.
-- 🧪 **DevOps & Reliability:** CI/CD workflows, Docker containerization, and stress/load testing with **Grafana k6**.
-
+Project                                                                  What it is              Technologies
 ---
-
-### 🛠️ Tech Stack
-
-**Languages & Systems**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & Backend Frameworks**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Data, Cloud & DevOps**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamed0&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/mohamed-lamrani](https://linkedin.com/in/mohamed-lamrani)
-- ✉️ **Email:** [lamranimed03@gmail.com](mailto:lamranimed03@gmail.com)
+ft_transcendence                 Distributed web         NestJS, PostgreSQL,
+application with        WebSockets, Docker
+real-time features over
+WebSockets and a  
+containerised setup.
+webserv                                   HTTP/1.1 server built   C++98, sockets, poll /
+from scratch in C++98,  epoll
+using multiplexed I/O.
+Cursus_Projects_1337   Projects completed as   C
+part of the 1337 core  
+curriculum.
+Better-Auth-App             Application exploring   TypeScript
+authentication flows.
+Experience
+Full-Stack & AI Engineer Intern --- MIM Digital Agency
+Developed an AI-assisted e-commerce Micro-SaaS using React, Express
+and Supabase (PostgreSQL).
+Built automated workflows with n8n and AI agents for product
+tagging, translation and catalogue synchronisation.
+Worked with API integrations, webhooks, Docker and software testing,
+including load and stress testing with Grafana k6.
+Tech stack
+Infrastructure & DevOps  
+Linux · Docker · Git · CI/CD · Kubernetes
+Currently learning  
+Terraform / OpenTofu · Prometheus · Grafana · OpenTelemetry · AWS ·
+Microsoft Azure · Google Cloud · OpenStack
+Programming languages  
+C · C++ · Python · TypeScript · JavaScript
+Backend & databases  
+Node.js · NestJS · Express · PostgreSQL · Supabase · REST APIs
+Frontend  
+React
+Currently exploring
+Cloud provider APIs, SDKs and infrastructure metadata
+Multi-cloud architecture and infrastructure portability
+Cloud pricing, usage data and FinOps concepts
+Kubernetes operations and container orchestration
+Infrastructure as Code and observability
+Get in touch
+📍 Rabat, Morocco · Open to Cloud, DevOps and Platform Engineering
+internships
+GitHub: @lamed0
+LinkedIn: Add your LinkedIn profile
+URL
+Email: lamranimed03@gmail.com
