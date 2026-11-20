@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Lamrani 👋
 
-**Software Engineering Student | Full-Stack & AI Developer | Interested in Cloud Infrastructure, DevOps, Kubernetes and Distributed Systems**  
+**Software Engineering Student | Full-Stack & AI Developer | Interested in Cloud Infrastructure, DevOps**  
 Studying at [1337 (42 Network)](https://www.1337.ma/).
 
 I enjoy understanding how systems work from the bottom up — from building a C++ HTTP server to developing containerised applications. I'm now extending that foundation into cloud-native infrastructure, automation and multi-cloud environments.
