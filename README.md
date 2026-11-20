@@ -61,15 +61,30 @@ I enjoy understanding how systems work from the bottom up — from building a C+
   
 ## 🛠️ Selected projects
 
-### [ft_transcendence](YOUR_FT_TRANSCENDENCE_REPOSITORY_URL)
-Distributed web application with real-time features over WebSockets and a containerised setup.
+### [Inception-of-Things — Kubernetes & GitOps Infrastructure](YOUR_INCEPTION_OF_THINGS_REPOSITORY_URL)
+Multi-node K3s cluster (server/agent) on Vagrant VMs, exposing three web apps through host-based Ingress routing. GitOps pipeline with K3d and Argo CD: pushing a new version to GitHub auto-syncs it to the cluster. Bonus: self-hosted GitLab deployed in the cluster with Helm as Argo CD's Git source.
 
-**Technologies:** NestJS · PostgreSQL · WebSockets · Docker
+**Technologies:** Kubernetes (K3s, K3d) · Argo CD · Helm · Vagrant · Ingress · GitLab
 
-### [webserv](YOUR_WEBSERV_REPOSITORY_URL)
-HTTP/1.1 server built from scratch in C++98, using multiplexed I/O.
+### [Inception — Docker Multi-Container Infrastructure](YOUR_INCEPTION_REPOSITORY_URL)
+Docker Compose stack built from custom Dockerfiles: Nginx with TLS, WordPress and MariaDB.
 
-**Technologies:** C++98 · Sockets · poll / epoll
+**Technologies:** Docker · Docker Compose · Nginx · MariaDB
+
+### [ft_transcendence — Containerised Microservices Platform](YOUR_FT_TRANSCENDENCE_REPOSITORY_URL)
+NestJS microservices backend with PostgreSQL (Prisma), WebSockets and OAuth 2.0. All services containerised for one-command deployment, with Prometheus metrics and Grafana dashboards.
+
+**Technologies:** NestJS · PostgreSQL · Prisma · WebSockets · OAuth 2.0 · Docker Compose · Prometheus · Grafana
+
+### [ft_webserv — HTTP Server in C++98](YOUR_WEBSERV_REPOSITORY_URL)
+Non-blocking, Nginx-style HTTP/1.1 server built from scratch, with epoll multiplexing, virtual hosts and CGI.
+
+**Technologies:** C++98 · Sockets · epoll
+
+### [Born2beroot & NetPractice — System Administration & Networking](YOUR_BORN2BEROOT_REPOSITORY_URL)
+Hardened Debian server (LVM, SSH, UFW, sudo policy) with a Bash monitoring script, plus TCP/IP subnetting and routing labs.
+
+**Technologies:** Debian · LVM · SSH · UFW · Bash · TCP/IP
 
 ### [Cursus_Projects_1337](https://github.com/lamed0/Cursus_Projects_1337)
 Projects completed as part of the 1337 core curriculum.
