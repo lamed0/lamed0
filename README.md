@@ -51,6 +51,14 @@ I enjoy understanding how systems work from the bottom up — from building a C+
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+## 💼 Experience
+
+**Full-Stack & AI Engineer Intern — MIM Digital Agency**
+
+- Developed an AI-assisted e-commerce Micro-SaaS using React, Express and Supabase (PostgreSQL).
+- Built automated workflows with n8n and AI agents for product tagging, translation and catalogue synchronisation.
+- Worked with API integrations, webhooks, Docker and software testing, including load and stress testing with Grafana k6.
+  
 ## 🛠️ Selected projects
 
 ### [ft_transcendence](YOUR_FT_TRANSCENDENCE_REPOSITORY_URL)
@@ -73,14 +81,6 @@ Application exploring authentication flows.
 
 **Technologies:** TypeScript
 
-## 💼 Experience
-
-**Full-Stack & AI Engineer Intern — MIM Digital Agency**
-
-- Developed an AI-assisted e-commerce Micro-SaaS using React, Express and Supabase (PostgreSQL).
-- Built automated workflows with n8n and AI agents for product tagging, translation and catalogue synchronisation.
-- Worked with API integrations, webhooks, Docker and software testing, including load and stress testing with Grafana k6.
-
 ## 📚 Currently exploring
 
 - Cloud provider APIs, SDKs and infrastructure metadata
@@ -94,5 +94,5 @@ Application exploring authentication flows.
 📍 Rabat, Morocco · **Open to Cloud, DevOps and Platform Engineering internships**
 
 - **GitHub:** [@lamed0](https://github.com/lamed0)
-- **LinkedIn:** [Your LinkedIn profile](YOUR_LINKEDIN_PROFILE_URL)
+- **LinkedIn:** [Your LinkedIn profile](https://www.linkedin.com/in/mohamed-lamrani-3217a41ba/)
 - **Email:** [lamranimed03@gmail.com](mailto:lamranimed03@gmail.com)
